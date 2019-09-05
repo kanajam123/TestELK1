@@ -1,0 +1,6 @@
+package com.fd.test;
+
+public class FirstTest {
+
+	System.out.println("HI ");
+}
