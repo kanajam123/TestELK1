@@ -1,0 +1,13 @@
+2019-09-09 15:44:31 INFO  NewTest:27 - EddAutoamtionTest Started
+2019-09-09 15:44:37 INFO  NewTest:33 - EddAutoamtion.One.Failures
+2019-09-09 15:44:37 INFO  NewTest:34 - EddAutoamtion.Two.Pass
+2019-09-09 15:44:37 INFO  NewTest:35 - EddAutoamtion.Three.Pass
+2019-09-09 15:44:37 INFO  NewTest:36 - EddAutoamtion.Four.Pass
+2019-09-09 15:44:37 INFO  NewTest:37 - EddAutoamtion.Five.Pass
+2019-09-09 15:44:37 INFO  NewTest:38 - EddAutoamtion.Six.Pass
+2019-09-09 15:44:37 INFO  NewTest:39 - EddAutoamtion.Seven.Pass 
+2019-09-09 15:44:37 INFO  NewTest:40 - EddAutoamtion.Eight.Pass
+2019-09-09 15:44:37 INFO  NewTest:41 - EddAutoamtion.Nine.Pass
+2019-09-09 15:44:37 INFO  NewTest:42 - EddAutoamtion.Ten.Failures
+2019-09-09 15:44:37 INFO  NewTest:43 - EddAutoamtion.Eleven.Failures
+2019-09-09 15:44:37 INFO  NewTest:45 - EddAutoamtionTest Ended

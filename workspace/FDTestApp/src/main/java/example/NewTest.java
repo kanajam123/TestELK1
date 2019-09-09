@@ -17,23 +17,46 @@ import org.testng.annotations.AfterTest;
 
 public class NewTest {
 
-	static Logger logger = Logger.getLogger(NewTest.class);
-
+	public Logger logger = Logger.getLogger(NewTest.class);
 	private WebDriver driver;
 
 	@Test
 	public void testEasy() {
 
 		PropertyConfigurator.configure("log4j.properties");
-		logger.info("Log4j appender configuration is Started testEasy !!");
+		logger.info("EddAutoamtionTest Started");
 		
-		driver.get("http://demo.guru99.com/test/guru99home/");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
 		String title = driver.getTitle();
-		AssertJUnit.assertTrue(title.contains("Demo Guru99 Page"));
-		
-		logger.info("Log4j appender configuration is successful testEasy !!");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirectOne"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirectOne"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
 	}
 
+	
+	
+	
 	@BeforeTest
 	public void beforeTestChrome() {
 		System.setProperty("webdriver.chrome.driver", "D:\\TestELK\\workspace\\FDTestApp\\chromedriver.exe");

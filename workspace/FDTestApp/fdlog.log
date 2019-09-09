@@ -1,2 +1,10 @@
-2019-09-05 18:44:00 INFO  NewTest:28 - Log4j appender configuration is Started testEasy !!
-2019-09-05 18:44:05 INFO  NewTest:34 - Log4j appender configuration is successful testEasy !!
+2019-09-09 16:15:09 INFO  NewTest:27 - EddAutoamtionTest Started
+2019-09-09 16:15:17 INFO  NewTest:33 - EddAutoamtion.One.Failures
+2019-09-09 16:15:17 INFO  NewTest:35 - EddAutoamtion.Two.Pass
+2019-09-09 16:15:17 INFO  NewTest:37 - EddAutoamtion.Three.Pass
+2019-09-09 16:15:17 INFO  NewTest:39 - EddAutoamtion.Four.Pass
+2019-09-09 16:15:17 INFO  NewTest:41 - EddAutoamtion.Five.Pass
+2019-09-09 16:15:17 INFO  NewTest:43 - EddAutoamtion.Six.Pass
+2019-09-09 16:15:17 INFO  NewTest:45 - EddAutoamtion.Seven.Pass 
+2019-09-09 16:15:17 INFO  NewTest:47 - EddAutoamtion.Eight.Pass
+2019-09-09 16:15:17 INFO  NewTest:49 - EddAutoamtion.Nine.Pass

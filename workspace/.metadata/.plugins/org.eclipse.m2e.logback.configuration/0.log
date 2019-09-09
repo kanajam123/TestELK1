@@ -444,3 +444,886 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2019-09-05 18:32:14,718 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-09-05 18:32:14,718 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-09-05 18:32:14,719 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-05 19:26:18,066 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-05 19:26:18,078 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-05 19:26:18,081 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-05 19:26:18,084 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:11:28,455 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:11:28,463 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:11:28,464 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:11:28,466 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:15:02,574 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-06 11:15:16,486 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-06 11:15:16,487 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-06 11:18:38,050 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:18:38,054 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:18:38,056 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:18:38,060 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:18:57,471 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:18:57,472 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:18:57,474 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:18:57,475 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:19:59,584 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:19:59,586 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:19:59,588 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:19:59,589 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:08,917 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:08,918 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:08,920 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:08,921 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:29,088 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:29,089 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:29,090 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:29,091 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:32,625 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:32,626 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:32,627 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:32,629 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:53,770 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:53,771 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:21:53,774 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:21:53,775 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:22:20,060 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:22:20,062 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 11:22:20,064 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 11:22:20,065 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:14:36,494 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:14:36,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:14:36,550 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:14:36,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:51,887 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:51,893 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:51,895 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:51,925 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:54,609 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:54,611 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:54,613 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:54,614 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:58,115 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:58,117 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:30:58,119 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:30:58,120 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:31:10,387 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:31:10,388 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:31:10,389 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:31:10,390 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:33:57,619 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:33:57,622 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:33:57,623 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:33:57,624 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:35:13,439 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:35:13,441 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:35:13,442 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:35:13,443 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:35:49,146 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:35:49,148 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:35:49,150 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:35:49,151 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:39,843 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:39,846 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:39,847 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:39,849 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:41,668 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:41,669 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:41,670 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:41,672 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:42,699 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:42,701 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:38:42,702 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:38:42,703 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:51:51,262 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:51:51,264 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 18:51:51,265 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 18:51:51,266 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:14:34,313 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:14:34,318 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:14:34,320 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:14:34,324 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:16:52,607 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-06 19:17:51,385 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:17:51,386 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:17:51,388 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:17:51,388 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:18:15,252 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:18:15,254 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:18:15,256 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:18:15,257 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:21:00,743 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:21:00,747 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:21:00,749 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:21:00,750 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:22:12,929 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:22:12,932 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:22:12,933 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:22:12,934 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:23:14,204 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:23:14,206 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:23:14,207 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:23:14,208 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:24:02,490 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:24:02,492 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:24:02,493 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:24:02,494 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:27:06,033 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-06 19:27:34,190 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:27:34,192 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:27:34,193 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:27:34,195 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:28:26,690 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:28:26,692 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:28:26,693 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:28:26,693 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:28:57,037 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:28:57,040 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:28:57,041 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:28:57,042 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:29:32,835 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:29:32,837 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:29:32,838 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:29:32,839 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:29:46,732 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:29:46,733 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:29:46,735 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:29:46,735 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:30:32,756 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:30:32,758 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:30:32,759 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:30:32,759 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:30:52,997 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:30:52,997 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:30:52,998 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:30:52,999 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:31:36,354 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:31:36,357 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:31:36,358 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:31:36,359 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:32:08,204 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:32:08,206 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:32:08,207 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:32:08,208 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:32:39,755 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:32:39,757 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:32:39,757 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:32:39,758 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:33:24,320 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:33:24,322 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:33:24,323 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:33:24,324 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:34:02,982 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:34:02,985 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:34:02,987 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:34:02,988 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:34:38,420 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:34:38,422 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:34:38,423 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:34:38,424 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:35:25,661 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:35:25,665 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:35:25,666 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:35:25,667 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:35:53,703 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:35:53,704 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:35:53,705 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:35:53,706 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:36:27,107 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:36:27,112 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:36:27,114 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:36:27,116 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:36:57,830 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:36:57,832 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:36:57,833 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:36:57,834 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:37:38,475 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:37:38,479 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:37:38,481 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:37:38,483 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:38:18,445 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:38:18,447 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:38:18,449 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:38:18,450 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:40:47,976 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:40:47,978 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:40:47,979 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:40:47,982 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:41:31,267 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:41:31,269 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:41:31,270 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:41:31,271 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:42:47,170 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:42:47,173 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:42:47,175 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:42:47,176 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:43:14,961 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:43:14,962 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:43:14,963 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:43:14,965 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:43:51,244 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:43:51,248 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:43:51,250 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:43:51,252 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:44:22,652 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:44:22,657 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:44:22,658 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:44:22,660 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:45:15,586 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:45:15,588 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:45:15,589 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:45:15,590 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:45:46,821 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:45:46,823 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:45:46,824 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:45:46,825 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:46:19,766 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:46:19,768 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:46:19,768 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:46:19,769 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:46:52,168 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:46:52,170 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:46:52,171 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:46:52,172 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:47:30,712 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:47:30,714 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:47:30,715 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:47:30,717 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:48:05,466 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:48:05,468 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:48:05,469 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:48:05,470 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:48:54,527 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:48:54,529 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:48:54,530 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:48:54,531 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:49:30,619 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:49:30,624 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:49:30,625 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:49:30,627 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:50:03,812 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:50:03,814 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:50:03,815 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:50:03,816 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:50:40,050 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:50:40,055 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:50:40,057 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:50:40,059 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:51:24,293 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:51:24,295 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:51:24,296 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:51:24,297 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:52:03,967 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:52:03,970 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:52:03,971 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:52:03,972 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:52:52,689 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:52:52,691 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:52:52,692 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:52:52,693 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:53:39,167 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:53:39,170 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:53:39,171 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:53:39,172 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:55:58,045 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:55:58,048 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:55:58,049 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:55:58,050 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:57:21,751 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:57:21,754 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:57:21,754 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:57:21,755 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:57:59,339 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:57:59,341 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:57:59,342 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:57:59,343 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:58:37,657 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:58:37,660 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 19:58:37,661 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 19:58:37,661 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:00:00,919 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:00:00,922 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:00:00,923 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:00:00,924 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:00:40,707 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:00:40,710 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:00:40,711 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:00:40,712 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:01:12,974 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:01:12,976 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:01:12,977 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:01:12,978 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:01:35,177 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:01:35,178 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-06 20:01:35,179 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-06 20:01:35,180 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:07:22,222 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:07:22,247 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:07:22,249 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:07:22,250 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:58:57,437 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:58:57,459 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:58:57,460 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:58:57,489 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:59:00,606 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:59:00,607 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:59:00,608 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:59:00,609 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:59:21,110 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:59:21,111 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 11:59:21,112 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 11:59:21,113 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:00:31,934 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:00:31,934 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-09-09 12:00:33,938 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:00:33,941 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:00:33,941 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:00:33,942 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:00:51,041 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-09 12:01:03,274 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:01:03,276 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 12:02:25,047 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:02:25,048 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:02:25,049 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:02:25,052 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:02:44,208 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:02:44,209 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:02:44,211 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:02:44,211 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:07:08,444 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-09 12:07:10,025 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-09 12:07:11,912 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FDTestApp/src/main/java
+2019-09-09 12:07:11,912 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FDTestApp/src/main/resources
+2019-09-09 12:07:11,913 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FDTestApp/src/test/java
+2019-09-09 12:07:11,913 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FDTestApp/src/test/resources
+2019-09-09 12:07:12,257 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-09-09 12:07:13,207 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:07:13,209 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:07:13,211 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:07:13,212 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:07:47,592 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:07:47,598 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:07:47,600 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:07:47,601 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:08:05,753 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:08:05,753 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 12:11:42,028 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:11:42,028 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 12:12:05,864 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:12:05,866 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:12:05,867 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:12:05,869 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:12:24,020 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:12:24,021 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:12:24,022 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:12:24,023 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:13:20,942 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:13:20,943 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 12:14:39,757 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:39,758 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:39,760 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:39,764 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:45,875 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:45,877 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:45,878 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:45,879 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:52,622 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:52,624 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:52,626 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:14:52,627 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:14:58,804 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-09 12:14:58,843 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:14:58,843 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 12:17:10,125 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:10,127 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:10,128 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:10,129 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:25,180 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:25,182 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:25,185 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:25,189 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:34,920 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:17:34,920 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-09-09 12:17:37,307 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:37,309 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:37,311 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:37,312 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:45,881 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 12:17:45,881 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-09-09 12:17:50,409 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:50,411 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:17:50,412 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:17:50,414 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:52:08,483 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:52:08,489 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:52:08,493 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:52:08,502 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:54:55,323 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:54:55,325 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:54:55,326 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 12:54:55,327 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 12:59:59,207 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp (1) references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp (1) references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,211 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp (1) references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp (1) references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,220 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp (1) references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp (1) references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,222 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,224 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,228 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration FDTestApp_testng.xml references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,230 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTest references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration NewTest references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,232 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTest references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration NewTest references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 12:59:59,237 [Worker-53] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTest references closed project FDTestApp
+org.eclipse.core.runtime.CoreException: Launch configuration NewTest references closed project FDTestApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-09-09 13:02:38,000 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-09 13:02:38,000 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-09 13:02:39,868 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:02:39,870 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:02:39,871 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:02:39,872 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:02:42,162 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FDTestApp:FDTestApp:0.0.1-SNAPSHOT @ D:\TestELK\workspace\FDTestApp\pom.xml.
+2019-09-09 13:02:44,613 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:02:44,617 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:02:44,619 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:02:44,619 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:30:01,467 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-09 13:30:10,894 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 13:30:10,894 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 13:31:07,131 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:07,133 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:07,134 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:07,139 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:15,973 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:15,974 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:15,976 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:15,977 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:20,367 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:20,369 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:20,370 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:31:20,370 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:31:36,556 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-09 13:31:44,782 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 13:31:44,782 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 13:32:06,595 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:32:06,596 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:32:06,598 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:32:06,603 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:37:20,327 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-09 13:37:30,369 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\TestELK\workspace\FDTestApp
+2019-09-09 13:37:30,369 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-09 13:38:23,282 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:38:23,283 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:38:23,284 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:38:23,288 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:39:22,694 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:39:22,695 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:39:22,697 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:39:22,698 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:39:23,719 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:39:23,720 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 13:39:23,721 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 13:39:23,722 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:15:51,574 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:15:51,575 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:15:51,575 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:15:51,576 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:16:33,911 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:16:33,912 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:16:33,913 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:16:33,913 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:18:04,393 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:18:04,394 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:18:04,395 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:18:04,395 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:20:48,221 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:20:48,222 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:20:48,223 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:20:48,224 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:21:26,114 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:21:26,115 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:21:26,116 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:21:26,117 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:09,726 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:09,728 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:09,729 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:09,729 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:23,123 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:23,125 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:23,126 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:23,127 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:27,732 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:27,733 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:22:27,734 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:22:27,735 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:25:06,780 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:25:06,781 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:25:06,782 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:25:06,783 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:25:23,069 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:25:23,070 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:25:23,070 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:25:23,071 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:28:00,716 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:28:00,718 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 14:28:00,718 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 14:28:00,719 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:37:33,419 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:37:33,421 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:37:33,422 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:37:33,423 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:23,667 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:23,669 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:23,669 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:23,670 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:37,582 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:37,583 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:37,584 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:37,584 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:48,198 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:48,199 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:38:48,201 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:38:48,202 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:16,674 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:16,675 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:16,676 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:16,677 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:17,697 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:17,698 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:17,699 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:17,699 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:20,620 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:20,622 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:39:20,623 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:39:20,625 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:41:19,598 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:41:19,599 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:41:19,600 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:41:19,601 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:41:40,125 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:41:40,127 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:41:40,127 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:41:40,128 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:42:09,056 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:42:09,057 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:42:09,057 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:42:09,058 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:42:17,683 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:42:17,684 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:42:17,685 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:42:17,686 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:43:27,543 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:43:27,544 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:43:27,545 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:43:27,545 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:01,934 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:01,935 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:01,935 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:01,936 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:17,798 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:17,799 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:17,801 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:17,802 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:43,008 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:43,009 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:44:43,010 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:44:43,010 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:45:02,132 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:45:02,133 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:45:02,134 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:45:02,135 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:47:40,911 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:47:40,912 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:47:40,914 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:47:40,914 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:47:50,297 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:47:50,299 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:47:50,300 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:47:50,300 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:48:58,947 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:48:58,948 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:48:58,949 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:48:58,950 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:49:25,601 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:49:25,603 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:49:25,605 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:49:25,606 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:51:41,461 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:51:41,463 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:51:41,464 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:51:41,465 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:52:50,209 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:52:50,210 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:52:50,210 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:52:50,211 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:52:51,244 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:52:51,245 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:52:51,246 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:52:51,247 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:53:04,343 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:53:04,344 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:53:04,346 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:53:04,347 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:54:09,470 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:54:09,472 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:54:09,473 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:54:09,474 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:54:10,553 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:54:10,555 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:54:10,556 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:54:10,557 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:56:43,633 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:56:43,634 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:56:43,634 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:56:43,635 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:56:44,668 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:56:44,669 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:56:44,670 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:56:44,671 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:57:36,254 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:57:36,255 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:57:36,255 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:57:36,256 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:57:37,318 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:57:37,322 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 15:57:37,325 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 15:57:37,328 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:00:11,443 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:00:11,444 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:00:11,445 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:00:11,445 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:13:30,879 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:13:30,882 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:13:30,884 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:13:30,885 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:13:32,130 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:13:32,131 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:13:32,132 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:13:32,133 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:14:37,802 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:14:37,808 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:14:37,809 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:14:37,809 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:14:38,892 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:14:38,894 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:14:38,895 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:14:38,897 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:27:40,809 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:27:40,810 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:27:40,811 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:27:40,812 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:41:15,683 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:41:15,685 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:41:15,685 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:41:15,686 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:41:18,333 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:41:18,334 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-09 16:41:18,334 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-09-09 16:41:18,335 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
