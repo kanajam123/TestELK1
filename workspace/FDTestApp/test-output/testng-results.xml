@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="1" passed="0">
+<testng-results skipped="0" failed="1" total="11" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="72255" started-at="2019-09-10T09:40:23Z" finished-at="2019-09-10T09:41:36Z">
+  <suite name="Suite" duration-ms="19320" started-at="2019-09-10T10:54:25Z" finished-at="2019-09-10T10:54:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="72255" started-at="2019-09-10T09:40:23Z" finished-at="2019-09-10T09:41:36Z">
+    <test name="Test" duration-ms="19320" started-at="2019-09-10T10:54:25Z" finished-at="2019-09-10T10:54:44Z">
       <class name="example.NewTest">
-        <test-method status="PASS" signature="beforeTestChrome()[pri:0, instance:example.NewTest@5e3a8624]" name="beforeTestChrome" is-config="true" duration-ms="3486" started-at="2019-09-10T15:10:23Z" finished-at="2019-09-10T15:10:27Z">
+        <test-method status="PASS" signature="beforeTestChrome()[pri:0, instance:example.NewTest@5c3bd550]" name="beforeTestChrome" is-config="true" duration-ms="2433" started-at="2019-09-10T16:24:25Z" finished-at="2019-09-10T16:24:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestChrome -->
-        <test-method status="FAIL" signature="testEasy()[pri:0, instance:example.NewTest@5e3a8624]" name="testEasy" duration-ms="67434" started-at="2019-09-10T15:10:27Z" finished-at="2019-09-10T15:11:34Z">
+        <test-method status="PASS" signature="testEasyEight()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyEight" duration-ms="8385" started-at="2019-09-10T16:24:27Z" finished-at="2019-09-10T16:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyEight -->
+        <test-method status="FAIL" signature="testEasyEleven()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyEleven" duration-ms="909" started-at="2019-09-10T16:24:36Z" finished-at="2019-09-10T16:24:36Z">
           <exception class="java.lang.AssertionError">
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError: 
 	at org.testng.AssertJUnit.fail(AssertJUnit.java:59)
 	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:24)
 	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:33)
-	at example.NewTest.testEasy(NewTest.java:44)
+	at example.NewTest.testEasyEleven(NewTest.java:364)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -48,8 +52,44 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@5e3a8624]" name="afterTest" is-config="true" duration-ms="1316" started-at="2019-09-10T15:11:34Z" finished-at="2019-09-10T15:11:36Z">
+        </test-method> <!-- testEasyEleven -->
+        <test-method status="PASS" signature="testEasyNine()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyNine" duration-ms="689" started-at="2019-09-10T16:24:36Z" finished-at="2019-09-10T16:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyNine -->
+        <test-method status="PASS" signature="testEasyOne()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyOne" duration-ms="665" started-at="2019-09-10T16:24:37Z" finished-at="2019-09-10T16:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyOne -->
+        <test-method status="PASS" signature="testEasySeven()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasySeven" duration-ms="791" started-at="2019-09-10T16:24:38Z" finished-at="2019-09-10T16:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasySeven -->
+        <test-method status="PASS" signature="testEasySix()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasySix" duration-ms="687" started-at="2019-09-10T16:24:39Z" finished-at="2019-09-10T16:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasySix -->
+        <test-method status="PASS" signature="testEasyTen()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyTen" duration-ms="807" started-at="2019-09-10T16:24:39Z" finished-at="2019-09-10T16:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyTen -->
+        <test-method status="PASS" signature="testEasyThree()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyThree" duration-ms="688" started-at="2019-09-10T16:24:40Z" finished-at="2019-09-10T16:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyThree -->
+        <test-method status="PASS" signature="testEasyTwo()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyTwo" duration-ms="677" started-at="2019-09-10T16:24:41Z" finished-at="2019-09-10T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyTwo -->
+        <test-method status="PASS" signature="testEasyfive()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyfive" duration-ms="680" started-at="2019-09-10T16:24:42Z" finished-at="2019-09-10T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyfive -->
+        <test-method status="PASS" signature="testEasyfour()[pri:0, instance:example.NewTest@5c3bd550]" name="testEasyfour" duration-ms="691" started-at="2019-09-10T16:24:42Z" finished-at="2019-09-10T16:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasyfour -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@5c3bd550]" name="afterTest" is-config="true" duration-ms="1186" started-at="2019-09-10T16:24:43Z" finished-at="2019-09-10T16:24:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

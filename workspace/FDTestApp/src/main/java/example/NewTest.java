@@ -16,7 +16,7 @@ public class NewTest {
 	private WebDriver driver;
 
 	@Test
-	public void testEasy() {
+	public void testEasyOne() {
 
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("EddAutoamtionTest Started");
@@ -41,13 +41,383 @@ public class NewTest {
 		logger.info("EddAutoamtion.Eight.Pass");
 		AssertJUnit.assertTrue(title.contains("FordDirect"));
 		logger.info("EddAutoamtion.Nine.Pass");
-		AssertJUnit.assertTrue(title.contains("FordDirectOne"));
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+
+	
+	@Test
+	public void testEasyTwo() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	@Test
+	public void testEasyThree() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	@Test
+	public void testEasyfour() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	@Test
+	public void testEasyfive() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	@Test
+	public void testEasySix() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	
+	
+	@Test
+	public void testEasySeven() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	@Test
+	public void testEasyEight() {
+
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	@Test
+	public void testEasyNine() {
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	@Test
+	public void testEasyTen() {
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
+	
+	
+	@Test
+	public void testEasyEleven() {
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirectONE"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
 		logger.info("EddAutoamtion.Ten.Failures");
 		AssertJUnit.assertTrue(title.contains("FordDirectOne"));
 		logger.info("EddAutoamtion.Eleven.Failures");
 		logger.info("EddAutoamtionTest Ended");
 	}
-
+	
+	@Test
+	public void testEasyTwelve() {
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("EddAutoamtionTest Started");
+		//driver.get("http://demo.guru99.com/test/guru99home/");
+		driver.get("https://www.forddirect.com/");
+		String title = driver.getTitle();
+		AssertJUnit.assertTrue(title.contains("FordDirectONE"));
+		logger.info("EddAutoamtion.One.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Two.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Three.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Four.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Five.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Six.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Seven.Pass ");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Eight.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Nine.Pass");
+		AssertJUnit.assertTrue(title.contains("FordDirect"));
+		logger.info("EddAutoamtion.Ten.Failures");
+		AssertJUnit.assertTrue(title.contains("FordDirectOne"));
+		logger.info("EddAutoamtion.Eleven.Failures");
+		logger.info("EddAutoamtionTest Ended");
+	}
+	
 	@BeforeTest
 	public void beforeTestChrome() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\kanajam.madhu\\git\\TestELK1\\workspace\\FDTestApp\\chromedriver.exe");
