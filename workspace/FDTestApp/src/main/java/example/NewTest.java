@@ -1,19 +1,14 @@
 package example;
 
-import org.testng.annotations.Test;
-import org.apache.log4j.PropertyConfigurator;
-
-import org.testng.AssertJUnit;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.testng.Assert;
-import org.testng.annotations.Test;
-import org.testng.annotations.BeforeTest;
+import org.testng.AssertJUnit;
 import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 
 public class NewTest {
 
@@ -25,12 +20,11 @@ public class NewTest {
 
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("EddAutoamtionTest Started");
-		
 		//driver.get("http://demo.guru99.com/test/guru99home/");
 		driver.get("https://www.forddirect.com/");
 		String title = driver.getTitle();
 		AssertJUnit.assertTrue(title.contains("FordDirect"));
-		logger.info("EddAutoamtion.One.Failures");
+		logger.info("EddAutoamtion.One.Pass");
 		AssertJUnit.assertTrue(title.contains("FordDirect"));
 		logger.info("EddAutoamtion.Two.Pass");
 		AssertJUnit.assertTrue(title.contains("FordDirect"));
@@ -54,12 +48,9 @@ public class NewTest {
 		logger.info("EddAutoamtionTest Ended");
 	}
 
-	
-	
-	
 	@BeforeTest
 	public void beforeTestChrome() {
-		System.setProperty("webdriver.chrome.driver", "D:\\TestELK\\workspace\\FDTestApp\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\kanajam.madhu\\git\\TestELK1\\workspace\\FDTestApp\\chromedriver.exe");
 		DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 		// capabilities.setCapability("marionette", true);
 		driver = new ChromeDriver(capabilities);

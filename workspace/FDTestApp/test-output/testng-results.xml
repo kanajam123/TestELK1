@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11745" started-at="2019-09-09T10:45:06Z" finished-at="2019-09-09T10:45:18Z">
+  <suite name="Suite" duration-ms="72255" started-at="2019-09-10T09:40:23Z" finished-at="2019-09-10T09:41:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11745" started-at="2019-09-09T10:45:06Z" finished-at="2019-09-09T10:45:18Z">
+    <test name="Test" duration-ms="72255" started-at="2019-09-10T09:40:23Z" finished-at="2019-09-10T09:41:36Z">
       <class name="example.NewTest">
-        <test-method status="PASS" signature="beforeTestChrome()[pri:0, instance:example.NewTest@5e3a8624]" name="beforeTestChrome" is-config="true" duration-ms="2890" started-at="2019-09-09T16:15:06Z" finished-at="2019-09-09T16:15:09Z">
+        <test-method status="PASS" signature="beforeTestChrome()[pri:0, instance:example.NewTest@5e3a8624]" name="beforeTestChrome" is-config="true" duration-ms="3486" started-at="2019-09-10T15:10:23Z" finished-at="2019-09-10T15:10:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestChrome -->
-        <test-method status="FAIL" signature="testEasy()[pri:0, instance:example.NewTest@5e3a8624]" name="testEasy" duration-ms="7651" started-at="2019-09-09T16:15:09Z" finished-at="2019-09-09T16:15:17Z">
+        <test-method status="FAIL" signature="testEasy()[pri:0, instance:example.NewTest@5e3a8624]" name="testEasy" duration-ms="67434" started-at="2019-09-10T15:10:27Z" finished-at="2019-09-10T15:11:34Z">
           <exception class="java.lang.AssertionError">
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError: 
 	at org.testng.AssertJUnit.fail(AssertJUnit.java:59)
 	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:24)
 	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:33)
-	at example.NewTest.testEasy(NewTest.java:50)
+	at example.NewTest.testEasy(NewTest.java:44)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@5e3a8624]" name="afterTest" is-config="true" duration-ms="1183" started-at="2019-09-09T16:15:17Z" finished-at="2019-09-09T16:15:18Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@5e3a8624]" name="afterTest" is-config="true" duration-ms="1316" started-at="2019-09-10T15:11:34Z" finished-at="2019-09-10T15:11:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
